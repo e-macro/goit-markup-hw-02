@@ -60,12 +60,12 @@ button:active {
 
 .address-nav .contact {
     text-decoration: none;
-    color: #404BBF;
+    color: #434455;
 }
 
 .address-nav .contact:hover,
 .address-nav .contact:focus {
-    color: #4d5ae5;
+    color: #404BBF;
     text-decoration: underline;
 }
 
