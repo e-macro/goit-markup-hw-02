@@ -1,0 +1,76 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    color: #ffffff;
+    background-color: #4d5ae5;
+    cursor: pointer;
+}
+
+button:hover,
+button:active {
+    background-color: #404BBF;
+}
+
+.link-nav .link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.link-nav .link:hover,
+.link-nav .link:focus {
+    color: #4d5ae5;
+    text-decoration: underline;
+}
+
+.address-nav .contact {
+    text-decoration: none;
+    color: inherit;
+}
+
+.address-nav .contact:hover,
+.address-nav .contact:focus {
+    color: #4d5ae5;
+    text-decoration: underline;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 1.07;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+ 
+h3 {
+    font-weight: Medium;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+.main-page {
+    background-color: #2e2f42;
+}
+
+.main-page-text {
+    color: #ffffff;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+footer {
+    background-color: #2e2f42;
+}
