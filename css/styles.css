@@ -54,11 +54,13 @@ button:active {
 
 .address-nav {
     font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .address-nav .contact {
     text-decoration: none;
-    color: inherit;
+    color: #404BBF;
 }
 
 .address-nav .contact:hover,
