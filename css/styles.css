@@ -101,6 +101,18 @@ h3 {
     color: #ffffff;
 }
 
+.adv-title {
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+}
+
+.adv-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
 .team {
     background-color: #F4F4FD;
 }
