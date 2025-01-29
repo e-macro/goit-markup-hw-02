@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #ffffff;
 }
 
 ul {
@@ -18,15 +19,41 @@ button:active {
     background-color: #404BBF;
 }
 
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo-span-header {
+    color: #2e2f42
+}
+
+.logo-span-footer {
+    color: #F4F4FD
+}
+
 .link-nav .link {
     text-decoration: none;
-    color: inherit;
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .link-nav .link:hover,
 .link-nav .link:focus {
-    color: #4d5ae5;
+    color: #404BBF;
     text-decoration: underline;
+}
+
+.address-nav {
+    font-style: normal;
 }
 
 .address-nav .contact {
