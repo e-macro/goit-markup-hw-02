@@ -31,14 +31,17 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-decoration: none;
 }
 
 .logo-span-header {
-    color: #2e2f42
+    color: #2e2f42;
+    text-decoration: none;
 }
 
 .logo-span-footer {
-    color: #F4F4FD
+    color: #F4F4FD;
+    text-decoration: none;
 }
 
 .link-nav .link {
